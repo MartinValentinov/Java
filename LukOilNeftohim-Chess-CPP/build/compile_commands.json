@@ -1,0 +1,122 @@
+[
+{
+  "directory": "/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/build",
+  "command": "/usr/bin/clang++  -I/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/chess_core.dir/src/core/board.cpp.o -c /Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/src/core/board.cpp",
+  "file": "/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/src/core/board.cpp",
+  "output": "CMakeFiles/chess_core.dir/src/core/board.cpp.o"
+},
+{
+  "directory": "/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/build",
+  "command": "/usr/bin/clang++  -I/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/chess_core.dir/src/core/move.cpp.o -c /Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/src/core/move.cpp",
+  "file": "/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/src/core/move.cpp",
+  "output": "CMakeFiles/chess_core.dir/src/core/move.cpp.o"
+},
+{
+  "directory": "/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/build",
+  "command": "/usr/bin/clang++  -I/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/chess_core.dir/src/core/piece.cpp.o -c /Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/src/core/piece.cpp",
+  "file": "/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/src/core/piece.cpp",
+  "output": "CMakeFiles/chess_core.dir/src/core/piece.cpp.o"
+},
+{
+  "directory": "/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/build",
+  "command": "/usr/bin/clang++  -I/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/chess_core.dir/src/core/rules.cpp.o -c /Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/src/core/rules.cpp",
+  "file": "/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/src/core/rules.cpp",
+  "output": "CMakeFiles/chess_core.dir/src/core/rules.cpp.o"
+},
+{
+  "directory": "/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/build",
+  "command": "/usr/bin/clang++  -I/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/chess_core.dir/src/engine/eval.cpp.o -c /Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/src/engine/eval.cpp",
+  "file": "/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/src/engine/eval.cpp",
+  "output": "CMakeFiles/chess_core.dir/src/engine/eval.cpp.o"
+},
+{
+  "directory": "/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/build",
+  "command": "/usr/bin/clang++  -I/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/chess_core.dir/src/engine/search.cpp.o -c /Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/src/engine/search.cpp",
+  "file": "/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/src/engine/search.cpp",
+  "output": "CMakeFiles/chess_core.dir/src/engine/search.cpp.o"
+},
+{
+  "directory": "/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/build",
+  "command": "/usr/bin/clang++  -I/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/chess_core.dir/src/engine/uci.cpp.o -c /Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/src/engine/uci.cpp",
+  "file": "/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/src/engine/uci.cpp",
+  "output": "CMakeFiles/chess_core.dir/src/engine/uci.cpp.o"
+},
+{
+  "directory": "/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/build",
+  "command": "/usr/bin/clang++  -I/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/chess_core.dir/src/parser/fen.cpp.o -c /Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/src/parser/fen.cpp",
+  "file": "/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/src/parser/fen.cpp",
+  "output": "CMakeFiles/chess_core.dir/src/parser/fen.cpp.o"
+},
+{
+  "directory": "/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/build",
+  "command": "/usr/bin/clang++  -I/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/chess_core.dir/src/parser/png.cpp.o -c /Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/src/parser/png.cpp",
+  "file": "/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/src/parser/png.cpp",
+  "output": "CMakeFiles/chess_core.dir/src/parser/png.cpp.o"
+},
+{
+  "directory": "/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/build",
+  "command": "/usr/bin/clang++  -I/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/chess_core.dir/src/parser/san.cpp.o -c /Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/src/parser/san.cpp",
+  "file": "/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/src/parser/san.cpp",
+  "output": "CMakeFiles/chess_core.dir/src/parser/san.cpp.o"
+},
+{
+  "directory": "/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/build",
+  "command": "/usr/bin/clang++  -I/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/chess_core.dir/src/storage/file_reader.cpp.o -c /Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/src/storage/file_reader.cpp",
+  "file": "/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/src/storage/file_reader.cpp",
+  "output": "CMakeFiles/chess_core.dir/src/storage/file_reader.cpp.o"
+},
+{
+  "directory": "/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/build",
+  "command": "/usr/bin/clang++  -I/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/chess_core.dir/src/storage/file_writer.cpp.o -c /Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/src/storage/file_writer.cpp",
+  "file": "/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/src/storage/file_writer.cpp",
+  "output": "CMakeFiles/chess_core.dir/src/storage/file_writer.cpp.o"
+},
+{
+  "directory": "/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/build",
+  "command": "/usr/bin/clang++  -I/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/chess_core.dir/src/storage/storage.cpp.o -c /Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/src/storage/storage.cpp",
+  "file": "/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/src/storage/storage.cpp",
+  "output": "CMakeFiles/chess_core.dir/src/storage/storage.cpp.o"
+},
+{
+  "directory": "/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/build",
+  "command": "/usr/bin/clang++  -I/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/chess_core.dir/src/ui/input.cpp.o -c /Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/src/ui/input.cpp",
+  "file": "/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/src/ui/input.cpp",
+  "output": "CMakeFiles/chess_core.dir/src/ui/input.cpp.o"
+},
+{
+  "directory": "/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/build",
+  "command": "/usr/bin/clang++  -I/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/chess_core.dir/src/ui/render.cpp.o -c /Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/src/ui/render.cpp",
+  "file": "/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/src/ui/render.cpp",
+  "output": "CMakeFiles/chess_core.dir/src/ui/render.cpp.o"
+},
+{
+  "directory": "/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/build",
+  "command": "/usr/bin/clang++  -I/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/chess_game.dir/apps/main.cpp.o -c /Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/apps/main.cpp",
+  "file": "/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/apps/main.cpp",
+  "output": "CMakeFiles/chess_game.dir/apps/main.cpp.o"
+},
+{
+  "directory": "/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/build",
+  "command": "/usr/bin/clang++  -I/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/include -I/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/tests/catch2 -g -std=gnu++17 -arch arm64 -o CMakeFiles/chess_tests.dir/tests/catch2/catch_amalgamated.cpp.o -c /Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/tests/catch2/catch_amalgamated.cpp",
+  "file": "/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/tests/catch2/catch_amalgamated.cpp",
+  "output": "CMakeFiles/chess_tests.dir/tests/catch2/catch_amalgamated.cpp.o"
+},
+{
+  "directory": "/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/build",
+  "command": "/usr/bin/clang++  -I/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/include -I/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/tests/catch2 -g -std=gnu++17 -arch arm64 -o CMakeFiles/chess_tests.dir/tests/core/engine_test.cpp.o -c /Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/tests/core/engine_test.cpp",
+  "file": "/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/tests/core/engine_test.cpp",
+  "output": "CMakeFiles/chess_tests.dir/tests/core/engine_test.cpp.o"
+},
+{
+  "directory": "/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/build",
+  "command": "/usr/bin/clang++  -I/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/include -I/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/tests/catch2 -g -std=gnu++17 -arch arm64 -o CMakeFiles/chess_tests.dir/tests/engine/uci_test.cpp.o -c /Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/tests/engine/uci_test.cpp",
+  "file": "/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/tests/engine/uci_test.cpp",
+  "output": "CMakeFiles/chess_tests.dir/tests/engine/uci_test.cpp.o"
+},
+{
+  "directory": "/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/build",
+  "command": "/usr/bin/clang++  -I/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/include -I/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/tests/catch2 -g -std=gnu++17 -arch arm64 -o CMakeFiles/chess_tests.dir/tests/storage/storage_test.cpp.o -c /Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/tests/storage/storage_test.cpp",
+  "file": "/Users/martinvalentinov/Documents/GitHub/LukOilNeftohim-Chess-CPP/tests/storage/storage_test.cpp",
+  "output": "CMakeFiles/chess_tests.dir/tests/storage/storage_test.cpp.o"
+}
+]
